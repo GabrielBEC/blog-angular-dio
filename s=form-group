@@ -1,0 +1,23 @@
+[33mcommit c49a605390e7af1d607762057072936bfc6b1659[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gabriel B <gabrielbicalho.eloi@gmail.com>
+Date:   Wed Apr 28 14:45:32 2021 -0300
+
+    adicionando dependencias e implementando navbar
+
+[33mcommit cf358aedfc94b4843f4fb65df2f2ee0edfd85a84[m
+Author: Gabriel B <gabrielbicalho.eloi@gmail.com>
+Date:   Wed Apr 28 14:02:23 2021 -0300
+
+    criando componentes e implementando as rotas
+
+[33mcommit be3a4a434fc7ea67c9efb876cb23566fdc461c6a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Gabriel <47669981+GabrielBEC@users.noreply.github.com>
+Date:   Tue Apr 27 20:51:56 2021 -0300
+
+    Create README.md
+
+[33mcommit 4569add293daedd1a9b84b410a54ae122bd91b8e[m
+Author: Gabriel B <gabrielbicalho.eloi@gmail.com>
+Date:   Tue Apr 27 20:50:34 2021 -0300
+
+    finalizando aula 2
